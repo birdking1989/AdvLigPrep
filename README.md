@@ -12,7 +12,9 @@ To Use:
    Only include pairing atom with different atom name in the mapping file. See the example for Ile to Val mutation.
    Atoms with same atom name will be paired by default, so please change the atom names of the atoms that are not supposed to be paired.
 3. Use the following command to generate the output files.
+
    exec.py "A.parm7" "B.parm7" "map" "prm.sh"
+   
    A.parm7 and B.parm7 are the parm7 files for the ligands.
    map is the mapping file.
    prm.sh is the output file.
