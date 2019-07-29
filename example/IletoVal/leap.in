@@ -1,0 +1,7 @@
+source leaprc.protein.ff14SB
+
+pro = sequence {ILE}
+
+saveamberparm pro ILE.prm7 ILE.rst7
+quit
+
