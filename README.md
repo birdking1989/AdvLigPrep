@@ -27,3 +27,6 @@ To Use:
 
 Note:
 1. For amino acids like A, P and G which have different backbone dihedral angles involving atoms from neighboring residues. Manual edit the atom selection masks in prm.sh so they point to the neighboring residues.
+
+Credits to:
+Junjie Zou
