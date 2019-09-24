@@ -30,8 +30,8 @@ def atompairfromfile(parm1, parm2, mapfile):
                     atmpair.append([atm1, atm2])
                     findpair=True
                     break
-            if findpair:
-                break
+
+                    
     return atmpair
 
 
